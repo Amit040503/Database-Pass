@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "362668089041",
+    "project_id": "database-pass",
+    "storage_bucket": "database-pass.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362668089041:android:17bc47cfd65be80b922ff0",
+        "android_client_info": {
+          "package_name": "com.example.databasepass"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW2ZMhdhWcz94tYNUx-ZQcvtk6-A4EHEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
